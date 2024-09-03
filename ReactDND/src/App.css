@@ -1,0 +1,10 @@
+.widget{
+  width: 250px;
+  background-color: aqua;
+  margin-bottom: 15px;
+}
+.page{
+  width: 400px;
+  height: 300px;
+  border: 1px solid red;
+}
